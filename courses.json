@@ -1,14 +1,74 @@
 [
-  {
-    "id": 1,
-    "title": "Learning HTML",
-    "description": "HTML stands for Hyper Text Markup Language, and HTML is the standard markup language for creating Web pages. HTML describes the structure of a Web page, and consists of a series of elements. HTML elements tell the browser how to display the content.",
-    "weekday": 1
-  },
-  {
-    "id": 2,
-    "title": "Learning CSS",
-    "description": "CSS stands for Cascading Style Sheets, and describes how HTML elements are to be displayed on screen, paper, or in other media. CSS saves a lot of work. It can control the layout of multiple web pages all at once. External stylesheets are stored in CSS files",
-    "weekday": 2
-  }
-]
+    {
+      "id": 1,
+      "title": "HTML",
+      "description": "HTML stands for Hyper Text Markup Language, and HTML is the standard markup language for creating Web pages. HTML describes the structure of a Web page, and consists of a series of elements. HTML elements tell the browser how to display the content.",
+      "weekday": 1
+    },
+    {
+      "id": 2,
+      "title": "CSS",
+      "description": "CSS stands for Cascading Style Sheets, and describes how HTML elements are to be displayed on screen, paper, or in other media. CSS saves a lot of work. It can control the layout of multiple web pages all at once. External stylesheets are stored in CSS files.",
+      "weekday": 2
+    },
+    {
+      "id": 3,
+      "title": "JavaScript",
+      "description": "JavaScript is the programming language of the Web. JavaScript can Change HTML Content, HTML Attribute Values, HTML Styles (CSS). JavaScript can Hide and show HTML Elements, too.",
+      "weekday": 3
+    },
+    {
+      "id": 4,
+      "title": "SQL",
+      "description": "SQL is a standard language for storing, manipulating and retrieving data in databases. Our SQL tutorial will teach you how to use SQL in MySQL and Postgres.",
+      "weekday": 4
+    },
+    {
+      "id": 5,
+      "title": "Bootstrap",
+      "description": "Bootstrap is the most popular HTML, CSS, and JavaScript framework for creating responsive, mobile-first websites.",
+      "weekday": 2
+    },
+    {
+      "id": 6,
+      "title": "jQuery",
+      "description": "jQuery is a JavaScript Library. The purpose of jQuery is to make it much easier to use JavaScript on your website.",
+      "weekday": 3
+    },
+    {
+      "id": 7,
+      "title": "React",
+      "description": "React is a JavaScript library for building user interfaces. React is used to build single-page applications. React allows us to create reusable UI components.",
+      "weekday": 3
+    },
+    {
+      "id": 8,
+      "title": "Python",
+      "description": "Python is a popular programming language. It was created by Guido van Rossum, and released in 1991. It is used for: web development (server-side), software development, mathematics, system scripting.",
+      "weekday": 5
+    },
+    {
+      "id": 9,
+      "title": "Django",
+      "description": "Django is a back-end server side web framework. Django is free, open source and written in Python. Django makes it easier to build web pages using Python.",
+      "weekday": 5
+    },
+    {
+      "id": 10,
+      "title": "MySQL",
+      "description": "MySQL is a very popular open-source relational database management system (RDBMS). MySQL is open-source and free. MySQL is ideal for both small and large applications",
+      "weekday": 4
+    },
+    {
+      "id": 11,
+      "title": "PostgreSQL",
+      "description": "PostgreSQL is a powerful, open source object-relational database system with over 35 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance.",
+      "weekday": 4
+    },
+    {
+      "id": 12,
+      "title": "Express.js",
+      "description": "Express.js, or simply Express, is a back end web application framework for building RESTful APIs with Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs. It has been called the de facto standard server framework for Node.js.",
+      "weekday": 3
+    }
+  ]
